@@ -13,7 +13,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 curl_cffi==0.6.3
 dataclasses-json==0.5.14
-duckduckgo_search==5.3.0
+duckduckgo_search==7.5.0
 frozenlist==1.4.1
 gitdb==4.0.11
 GitPython==3.1.43
